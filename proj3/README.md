@@ -1,8 +1,6 @@
 # Build Your Own World Design Document
 
-**Partner 1: Luvsandash (Steve) Davaasuren**
-
-**Partner 2: John Gardner**
+**Luvsandash (Steve) Davaasuren**
 
 ## Classes and Data Structures
 
